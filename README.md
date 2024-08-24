@@ -17,7 +17,7 @@
 
 - CSS Setting height and width-CSS Outline-CSS Combinators
 
-- By working on this project, you can enhance your HTML and CSS skills, practice responsive design, and gain hands-on experience in building a user interface.
+- By working on this project, i can enhance my HTML and CSS skills, practice responsive design, and gain hands-on experience in building a user interface.
 
 
 ### At the end of the project, I will be able to;
